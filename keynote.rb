@@ -8,6 +8,15 @@ Ruby Challenge (yakimawashi)
 @ngtk
 EOS
 
+block <<-EOS
+* The Ruby Challenge
+  * RubyKaigi 2014
+  * Prem Sichanugrist @sikachu (thoughtbot)
+  * https://therubychallenge.com
+* Ruby(MRI) 2.1.3
+
+EOS
+
 # Challenges
 section "Challenge 1" do
   code challenge_code('001')
