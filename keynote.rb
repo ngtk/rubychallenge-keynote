@@ -13,7 +13,11 @@ block <<-EOS
   * RubyKaigi 2014
   * Prem Sichanugrist @sikachu (thoughtbot)
   * https://therubychallenge.com
-* Ruby(MRI) 2.1.3
+  * Ruby(MRI) 2.1.3
+
+* Terminal Keynote
+  * https://github.com/fxn/tkn
+  * https://github.com/ngtk/rubychallenge-keynote
 
 EOS
 
